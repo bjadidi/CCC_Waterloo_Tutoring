@@ -1,0 +1,1 @@
+This repository would be a good reference for who wants to participate in CCC-Waterloo.
